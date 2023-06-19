@@ -16,7 +16,7 @@
 ## How to add details of new scam into the list 
 
 1. Open the folder related to the scam and edit the readme file. 
-2. Copy paste the structure with alphabetical order from < details > to </ details > and replace details with yours. 
+2. Copy and paste the structure with alphabetical order from < details > to </ details > and replace details with yours. 
 3. For example see the structure [here](https://github.com/avinash201199/AvoidScams/tree/main/Job%20Hiring%20Frauds)
 
 For any query contact us here - [instagram](https://www.instagram.com/lets__code/)
