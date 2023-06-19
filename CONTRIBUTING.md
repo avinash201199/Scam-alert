@@ -2,7 +2,8 @@
 
 1. By designing the website for this repo.
 2. Add details of new scams in respective folders which is not present in the list. 
-3. By improving the structure of the repo.
+3. If the folder is not present related to the scam type then create a new folder. 
+4. By improving the structure of the repo.
 
 ## How to contribute 
 
