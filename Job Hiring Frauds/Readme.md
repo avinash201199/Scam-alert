@@ -3,6 +3,7 @@
 <summary>Scam in the name of Naukri.com</summary>
 <br>
 Description <br>
+  
 Yesterday, I received an email informing me that I had been selected for an internship I had applied for. The email requested me to send my resume, and without realizing it, I sent it. After that, I received a few more emails from different individuals stating that I had been selected. Unfortunately, I didn't notice those emails.
 
 Today, I received a call from someone at Naukri, who mentioned that I hadn't been responding to companies and didn't have a job ID. They informed me that because I hadn't read the terms and policies of Naukri.com
