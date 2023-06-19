@@ -1,0 +1,2 @@
+# AvoidScams
+Awareness of scams !
