@@ -1,8 +1,8 @@
 ## Ways to contribute in this repo  👇
 
 1. By designing the website for this repo.
-2. Add details of new scams in respective folders which is not present in the list. 
-3. If the folder is not present related to the scam type then create a new folder. 
+2. Add details of new scams in respective headers which is not present in the list. 
+3. If the heading of the type of scam  is not present, add the heading with the scam details
 4. By improving the structure of the repo.
 
 ## How to contribute 
@@ -15,9 +15,18 @@
 
 ## How to add details of new scam into the list 
 
-1. Open the folder related to the scam and edit the readme file. 
-2. Copy and paste the structure with alphabetical order from < details > to </ details > and replace details with yours. 
-3. For example see the structure [here](https://github.com/avinash201199/AvoidScams/tree/main/Job%20Hiring%20Frauds)
+1. Find the heading under which you can add the details of teh scam .
+2. Copy and paste the structure with alphabetical order from < details > to </ details > and replace details with yours.
+   ```
+    <details>
+      <summary> Scam name </summary>
+
+      Add details
+      Reference link
+   </details>
+
+   ```
+  
 
 For any query contact us here - [instagram](https://www.instagram.com/lets__code/)
 
